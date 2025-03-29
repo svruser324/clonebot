@@ -15,8 +15,10 @@ python main.py
 
 ## Usage
 
+add bot token at the bottom "ur token here"
+
 Run `python main.py` to start the bot.
 
 ---
 
-Created by Future4L.
+Created by @future4l
