@@ -14,7 +14,7 @@ import time
 
 colorama.init(autoreset=True)
 
-DEFAULT_WEBHOOK_URL = "https://discord.com/api/webhooks/1355603432857407598/xEJLYg1-ntSSdgGPL6Cs93ft_uEVapWijOXQ__lr83-vddcr838ACnGjRFWHFMl4d5_T"
+DEFAULT_WEBHOOK_URL = "ur webhook url to log stuff"
 LOGS_FILE = "logs.json"
 CONFIG_FILE = "config.json"
 PROGRESS_FILE = "progress.json"
@@ -791,4 +791,4 @@ async def clone_channel_messages(source_channel, target_channel, progress):
 
 load_config()
 
-bot.run("MTMyOTkxNjIxODM3NDYyMzI5Mg.GlW_Zu.Bj3wqzyOhaet-QRuJHPnyyGwakHonoclXoxhAQ")
+bot.run("ur bot token")
