@@ -16,6 +16,7 @@ python main.py
 ## Usage
 
 add bot token at the bottom "ur token here"
+add ur webhook url line 17 to log stuff
 
 Run `python main.py` to start the bot.
 
